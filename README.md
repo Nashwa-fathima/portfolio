@@ -52,9 +52,11 @@ This portfolio highlights some beginner-level projects I’ve developed using on
    A simple webpage redirect to Amazon shopping.
 
  4. **Forms**
+
    Created a simple Project Management forms.
 
-5. **Greeting Card**  
+6. **Greeting Card**
+   
    A digital greeting card created with HTML and styled with CSS for a festive look.
 
 

@@ -59,7 +59,7 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 
 
 
-## 👩‍💻 Author
+##🤵🏻‍♀️👩🏻‍💼 Author
 
 **Nashwa Fathima V**  
 - 💻 B.Tech CSE Student  

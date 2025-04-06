@@ -1,5 +1,3 @@
--
-
 # 🌼 Portfolio Website
 
 A simple yet elegant **portfolio website** built using **HTML and CSS** to showcase web development projects with a stylish UI and responsive design.

@@ -1,4 +1,4 @@
-
+-
 
 # 🌼 Portfolio Website
 
@@ -42,20 +42,18 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 
 ## 💼 Projects Showcased
 
-1. **Question Paper**  
-   A digital version of a question paper formatted for clarity and accessibility.
+1. **Question Paper**  - A digital version of a question paper formatted for clarity and accessibility.
 
-2. **Table Creation**  
-   A neat and organized table design highlighting HTML structure and CSS stylization.
+2. **Table Creation** - A neat and organized table design highlighting HTML structure and CSS stylization.
 
-3. **Webpage**
-   A simple webpage redirect to Amazon shopping.
+4. **Webpage**
+   -A simple webpage redirect to Amazon shopping.
 
  5. **Forms**
-      Created a simple Project Management forms.
+      -Created a simple Project Management forms.
 
 6. **Greeting Card**
-   A digital greeting card created with HTML and styled with CSS for a festive look.
+   -A digital greeting card created with HTML and styled with CSS for a festive look.
 
 
 

@@ -27,7 +27,7 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 - `index.html`: Main homepage showcasing projects  
 - `about.html`: About me
 - `Experience.html`:about my skills
-- 
+ 
  - `project.html`: about my projects done
 
 - `contact.html`: Contact me using email or LinkedIn

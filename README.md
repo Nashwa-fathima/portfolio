@@ -1,6 +1,6 @@
 # portfolio
 
-# 🌟 Portfolio Website
+# 🌼 Portfolio Website
 
 A simple yet elegant **portfolio website** built using **HTML and CSS** to showcase web development projects with a stylish UI and responsive design.
 
@@ -59,7 +59,7 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 
 
 
-##🤵🏻‍♀️👩🏻‍💼 Author
+## 🤵🏻‍♀️Author
 
 **Nashwa Fathima V**  
 - 💻 B.Tech CSE Student  

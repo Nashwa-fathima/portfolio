@@ -43,7 +43,7 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 3. **Webpage**
    A simple webpage redirect to Amazon shopping.
 
- 4.**Forms**
+ 4. **Forms**
    Created a simple Project Management forms.
 
 5. **Greeting Card**  

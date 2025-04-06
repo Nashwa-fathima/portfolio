@@ -21,6 +21,12 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 - Footer with social media links and contact info
 
 
+## 👩🏻‍💻Code
+
+- `index.html`: main code page consists of all the elements.  
+- `style.css`: External link used for all types of styling.
+- `mediaqueries.css`: External link used for different screen sizes.
+
 
 ## 📂 Pages Included
 

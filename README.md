@@ -55,7 +55,7 @@ This portfolio highlights some beginner-level projects I’ve developed using on
 
 **Nashwa Fathima V**  
 - 💻 B.Tech CSE Student  
--🖋️  Student at Amrita Vishwa Vidyapeetham, Amritapuri.
+- 🖋️  Student at Amrita Vishwa Vidyapeetham, Amritapuri.
 - ✉️ [nashv287@gmail.com]
  - 🔗 [LinkedIn](https://www.linkedin.com/in/ananthanarayan-a-83a168335/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 🐙 [GitHub](https://github.com/ananthan2203)  
